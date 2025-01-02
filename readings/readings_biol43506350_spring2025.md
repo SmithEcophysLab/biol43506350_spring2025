@@ -70,12 +70,10 @@ Stocker, B. D., Dong, N., Perkowski, E. A., Schneider, P. D., Xu, H., de Boer, H
 cycle interactions. New Phytologist.
 
 ## March 11
-Mooney HA. 1972. The carbon balance of plants. 
-Annual review of ecology and systematics 3: 315–346.
+NO READING
 
 ## March 13
-Terrer, C., Phillips, R. P., Hungate, B. A., Rosende, J., Pett-Ridge, J., Craig, M. E., ... & Jackson, R. B. (2021). 
-A trade-off between plant and soil carbon storage under elevated CO2. Nature, 591(7851), 599-603.
+NO READING
 
 ## March 18
 NO READING
@@ -84,44 +82,42 @@ NO READING
 NO READING
 
 ## March 25
-NO READING
+Mooney HA. 1972. The carbon balance of plants. 
+Annual review of ecology and systematics 3: 315–346.
 
 ## March 27
-NO READING
+Terrer, C., Phillips, R. P., Hungate, B. A., Rosende, J., Pett-Ridge, J., Craig, M. E., ... & Jackson, R. B. (2021). 
+A trade-off between plant and soil carbon storage under elevated CO2. Nature, 591(7851), 599-603.
 
 ## April 1
-Givnish TJ. 2002. Adaptive significance of evergreen vs. deciduous leaves: 
-solving the triple paradox. Silva fennica 36: 703–743.
-
-## April 3
-Zanne, A. E., Pearse, W. D., Cornwell, W. K., McGlinn, D. J., Wright, I. J., & Uyeda, J. C. (2018). 
-Functional biogeography of angiosperms: life at the extremes. New Phytologist, 218(4), 1697-1709.
-
-## April 8
 Grime JP. 1977. Evidence for the Existence of Three Primary Strategies in Plants and Its 
 Relevance to Ecological and Evolutionary Theory. 
 The American Naturalist 111: 1169–1194.
 
-## April 10
+## April 3
 Bruelheide, H., Dengler, J., Purschke, O., Lenoir, J., Jiménez-Alfaro, B., Hennekens, S. M., ... & Jandt, U. 
 (2018). Global trait–environment relationships of plant communities. 
 Nature ecology & evolution, 2(12), 1906-1917.
 
-## April 15
-Kivlin, S. N., Emery, S. M., & Rudgers, J. A. (2013). 
-Fungal symbionts alter plant responses to global change. American Journal of Botany, 100(7), 1445-1457.
-
-## April 17
-Bunn, R. A., Corrêa, A., Joshi, J., Kaiser, C., Lekberg, Y., Prescott, C. E., ... & Karst, J. (2024). 
-What determines transfer of carbon from plants to mycorrhizal fungi?. New Phytologist, 244(4), 1199-1215.
-
-## April 22
+## April 8
 Field CB, Lobell DB, Peters HA, Chiariello NR. 2007. Feedbacks of Terrestrial Ecosystems 
 to Climate Change. Annual Review of Environment and Resources 32: 1–29.
 
-## April 24
+## April 10
 Smith, N. G., Zhu, Q., Keenan, T. F., & Riley, W. J. (2024). Acclimation of Photosynthesis 
 to CO2 Increases Ecosystem Carbon Storage due to Leaf Nitrogen Savings. Global Change Biology, 30(11), e17558.
+
+## April 15
+NO READING
+
+## April 17
+NO READING
+
+## April 22
+NO READING
+
+## April 24
+NO READING
 
 ## April 29
 NO READING
