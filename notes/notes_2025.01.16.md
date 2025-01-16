@@ -1,7 +1,7 @@
 # Class notes for January 12, 2023
 
 ## Objectives
-- Introduce the course and [syllabi](../Syllabus)
+- Introduce the course and [syllabi](../syllabus)
 - Learn a bit about each other's interests and background
 - Discuss how to search for and read scientific literature
 - Choose weekly topic preferences
@@ -24,7 +24,7 @@
 Contact [Dr. Smith](mailto:nick.smith@ttu.edu) if you have any issues.
 - Read over the [syllabus](../syllabus)
 - Read Chapin (2003). The full citation and link can be found in the 
-[Readings](../readings) folder.
+[readings](../readings) folder.
 	- Do literature feedback on Chapin article
 - Practice searching for scientific literature using 
 [Google Scholar](http://scholar.google.com)
