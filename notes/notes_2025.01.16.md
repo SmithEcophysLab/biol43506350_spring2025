@@ -1,4 +1,4 @@
-# Class notes for January 12, 2023
+# Class notes for January 16, 2025
 
 ## Objectives
 - Introduce the course and [syllabi](../syllabus)
