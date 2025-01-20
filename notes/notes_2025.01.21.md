@@ -7,7 +7,7 @@
 
 ## Agenda
 1. Lecture: "What is Plant Ecophysiology?"
-	- [slides](../lecutre_slides/slides_01.21.2025.pdf)
+	- [slides](../lecture_slides/slides_01.21.2025.pdf)
 2. Discussion of Chapin (2003) (Lead: Nick)
 	- slides embedded in today's lecture slides (see #1 above)
 3. Chat about class on Thursday
@@ -22,9 +22,9 @@
 			5. traits and processes at ecosystem scales (pg. 293-296)
 
 ## Homework
-- Read von Caemmerer and Farquhar (1981). The full citation and link can be found in the 
+- Read Reich (2014). The full citation and link can be found in the 
 [readings](../readings) folder.
-	- complete reading feedback for Reich (2014)
+	- complete reading feedback
 
 ## In-class notes
 
