@@ -16,10 +16,15 @@
 		- reading sections (per group)
 			- note: everyone reads introduction (pg 275-278)
 			1. trait-trait variation (pg. 279-284)
+				- garrison, ketzalzin, beatriz
 			2. traits, biogeography, and individual performance (pg. 285-286)
+				- ruth, jaden, dan
 			3. traits and performance (pg. 286-291)
+				- corbin, taylor
 			4. traits and processes at community scales (pg. 291-293)
+				- kennedy, zaide, clara
 			5. traits and processes at ecosystem scales (pg. 293-296)
+				- gwen, walker
 
 ## Homework
 - Read Reich (2014). The full citation and link can be found in the 
