@@ -20,11 +20,11 @@
 			2. traits, biogeography, and individual performance (pg. 285-286)
 				- ruth, jaden, dan
 			3. traits and performance (pg. 286-291)
-				- corbin, taylor
+				- corbin, taylor, kaitlyn
 			4. traits and processes at community scales (pg. 291-293)
 				- kennedy, zaide, clara
 			5. traits and processes at ecosystem scales (pg. 293-296)
-				- gwen, walker
+				- gwen, walker, rea
 
 ## Homework
 - Read Reich (2014). The full citation and link can be found in the 
