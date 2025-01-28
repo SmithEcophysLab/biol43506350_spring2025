@@ -12,11 +12,11 @@
 	- divide into 3 groups of 5 for jigsaw
 		- reading sections (per group)
 			- note: everyone reads Abstract
-			1. Introduction
-			2. Materials and Methods: LCE dataset - leaf trait analyses
-			3. Materials and Methods: plant functional type classification - statistical analyses
-			4. Results
-			5. Discussion
+			1. Introduction (dan, taylor, kaitlyn)
+			3. Materials and Methods: LCE dataset - leaf trait analyses (garrison, jaden, rea)
+			4. Materials and Methods: plant functional type classification - statistical analyses (ruth, gwen
+			5. Results (ketz, kennedy, zaide)
+			6. Discussion (beatriz, walker, clara)
 
 ## Homework
 - Read Smith and Dukes (2018). The full citation and link can be found in the 
