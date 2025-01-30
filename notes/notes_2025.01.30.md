@@ -12,7 +12,7 @@
 	- broader class discussion
 
 ## Homework
-- Read Boadman (1977). The full citation and link can be found in the 
+- Read Boardman (1977). The full citation and link can be found in the 
 [readings](../readings) folder.
 	- complete reading feedback
 
