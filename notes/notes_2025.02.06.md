@@ -1,11 +1,11 @@
-# Class notes for January 30, 2025
+# Class notes for February 6, 2025
 
 ## Objectives
 - Continue discussing plant physiology basics
 
 ## Agenda
 1. Miniquiz 3
-	- [link to miniquiz 2](../miniquizzes/miniquiz3_02.06.2025.pdf)
+	- [link to miniquiz 3](../miniquizzes/miniquiz3_02.06.2025.pdf)
 2. Discussion of Poorter et al. (2019)
 	- lead: Beatriz
 	- discussion amongst sections
