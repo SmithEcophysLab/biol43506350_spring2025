@@ -19,10 +19,15 @@ light availability, including differences in plant traits
 		- reading sections (per group)
 			- note: everyone reads Summary, Introduction, and Conclusions
 			1. Concepts and Methodology
+				- Lara, Kennedy, Garrison
 			2. Does-response curves (1. Anatomy and morphology, 2. Chemical composition)
+				- Taylor, Ruth, Dan
 			3. Does-response curves (3. Physiology, 2. Growth and reproduction)
+				- Corbin, Jaden, Kaitlyn
 			4. The overall response of plants to DLI, Molecular response and regulation
+				- Walker, Zaide, Ketz
 			5. Shade-tolerant and light-demanding species, Relation to field conditions
+				- Rea, Clara, Gwen
 
 ## Homework
 - Read Poorter et al. (2019). The full citation and link can be found in the 
