@@ -1,6 +1,6 @@
 # Grading rubric for discussion lead of a recent literature article (graduate students only)
 On Thursday's, 1-3 individuals will lead a discussion of a recent literature
-article of their choosing based on the week's topic. The class will be divided into
+article based on the week's topic. The class will be divided into
 four sections, typically Introduction, Methods, Results, Discussion. You will be responsible
 for introducing the paper and your reasoning for choosing it and then leading a jigsaw-style
 discussion of the paper.
@@ -8,12 +8,6 @@ discussion of the paper.
 Your grade will be based on your
 ability to introduce the topic, generate discussion amongst the class, and respond to
 any questions the class may have.
-
-## Paper introduction and rationale (25 points)
-In a brief (<5 minute) introduction, you should provide a summary of the article and it's main
-findings, as well as your rationale for choosing the article.
-You should also place the results of the article in context of previous research in the
-field (this can include things we have talked about earlier in class).
 
 ## Discussion generation (50 points)
 You will lead a jigsaw-style discussion of the paper. To help facilitate this, you will assign
@@ -25,6 +19,6 @@ It is your job to ensure that the discussion is coherent
 and addresses the main points of the study. Note: you will need to get
 things moving if the discussion goes stale.
 
-## Responses to class questions (25 points)
+## Responses to class questions (50 points)
 You may be asked to clarify portions of the paper. As such, please familiarize yourself
 thoroughly with the paper and important literature cited within the article you choose.
