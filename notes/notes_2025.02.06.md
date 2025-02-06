@@ -1,7 +1,7 @@
 # Class notes for February 6, 2025
 
 ## Objectives
-- Continue discussing plant physiology basics
+- Continue discussing light
 
 ## Agenda
 1. Miniquiz 3

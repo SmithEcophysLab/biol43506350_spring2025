@@ -37,4 +37,4 @@ These aspects should be briefly explained in the presentation. The grading will 
 for all content included in the both the written document and presentation.
 
 ### Due date
-March 25 at 9:30 AM (bring to class or email to Nick)
+March 11 at 9:30 AM (bring to class or email to Nick)
