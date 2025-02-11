@@ -16,7 +16,7 @@
 			1. Introduction
    				- kennedy, zaide, ketz
 			3. Materials and Methods
-				- beatriz, taylor, nick
+				- beatriz, taylor, jaden
 			4. Results
    				- clara, rea, lara
 			6. Discussion through "Independent temperature and VPD effects"
