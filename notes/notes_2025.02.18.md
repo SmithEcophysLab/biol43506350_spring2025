@@ -1,4 +1,5 @@
 # Class notes for February 18, 2025
+**Note: no office hours today**
 
 ## Objectives
 - Begin discussing plant-water relations
@@ -24,7 +25,6 @@
 			5. Methods
    				- 
 			
-
 ## Homework
 - Read Adams et al. (2017). The full citation and link can be found in the 
 [readings](../readings) folder.
