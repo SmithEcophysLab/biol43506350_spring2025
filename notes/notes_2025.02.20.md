@@ -5,7 +5,7 @@
 
 ## Agenda
 1. Miniquiz 5
-	- [link to miniquiz 5](../miniquizzes/miniquiz5_02.13.2025.pdf)
+	- [link to miniquiz 5](../miniquizzes/miniquiz5_02.20.2025.pdf)
 2. Discussion of Adams et al. (2017)
 	- lead: Kaitlyn
 	- discussion amongst sections
