@@ -15,15 +15,15 @@
 		- reading sections (per group)
 			- note: everyone reads Abstract
 			1. Introduction
-   				- 
+   				- zaide, kennedy, beatriz
 			2. Results
-				- 
+				- lara, ruth, garry
 			3. Discussion paragraphs 1-3
-   				- 
+   				- clara, ketz, jaden
    			4. Discussion paragraphs 4-6
-   				- 
+   				- dan, gwen, taylor
 			5. Methods
-   				- 
+   				- rea, walker, corbin
 			
 ## Homework
 - Read Adams et al. (2017). The full citation and link can be found in the 
