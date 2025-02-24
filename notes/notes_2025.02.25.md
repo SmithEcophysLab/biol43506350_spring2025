@@ -1,4 +1,5 @@
 # Class notes for February 25, 2025
+**No office hours today**
 
 ## Objectives
 - Begin discussing plant responses to CO2
