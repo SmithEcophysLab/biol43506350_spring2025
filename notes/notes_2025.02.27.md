@@ -5,7 +5,7 @@
 
 ## Agenda
 1. Miniquiz 6
-	- [link to miniquiz 5](../miniquizzes/miniquiz6_02.27.2025.pdf)
+	- [link to miniquiz 6](../miniquizzes/miniquiz6_02.27.2025.pdf)
 2. Discussion of Keenan et al. (2023)
 	- lead: Dan
 	- discussion amongst sections
