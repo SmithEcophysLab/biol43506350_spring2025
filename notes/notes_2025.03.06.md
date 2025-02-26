@@ -11,6 +11,9 @@
 	- discussion amongst sections
 	- discussion amongst groups
 	- broader class discussion
+3. Develop schedule for review proposal week
+	- Tuesday, March 11
+	- Thursday, March 13
 
 ## Homework
 - Complete literature review proposal and prepare to present it
