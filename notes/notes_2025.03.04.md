@@ -1,4 +1,4 @@
-# Class notes for March 3, 2025
+# Class notes for March 4, 2025
 
 ## Objectives
 - Discuss plant-nutrient relations

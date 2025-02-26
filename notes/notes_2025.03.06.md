@@ -1,4 +1,4 @@
-# Class notes for March 5, 2025
+# Class notes for March 6, 2025
 
 ## Objectives
 - Continue discussing plant responses to CO2
