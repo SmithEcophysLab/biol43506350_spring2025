@@ -66,8 +66,8 @@ in terrestrial ecosystems is globally distributed. Ecology, 89: 371-379.
 
 ## March 6
 Stocker, B. D., Dong, N., Perkowski, E. A., Schneider, P. D., Xu, H., de Boer, H. J., ... & Harrison, S. P. 
-(2024). Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen 
-cycle interactions. New Phytologist.
+(2025). Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen 
+cycle interactions. New Phytologist 245(1): 49-68.
 
 ## March 11
 NO READING

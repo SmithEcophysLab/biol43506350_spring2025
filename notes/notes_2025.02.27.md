@@ -4,9 +4,10 @@
 - Continue discussing plant responses to CO2
 
 ## Agenda
-1. Miniquiz 6
+1. Quick chat about systems diagrams
+2. Miniquiz 6
 	- [link to miniquiz 6](../miniquizzes/miniquiz6_02.27.2025.pdf)
-2. Discussion of Keenan et al. (2023)
+3. Discussion of Keenan et al. (2023)
 	- lead: Dan
 	- discussion amongst sections
 	- discussion amongst groups
