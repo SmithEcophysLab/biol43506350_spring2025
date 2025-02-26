@@ -1,7 +1,7 @@
 # Grading rubric for review paper proposal
 The purpose of the review paper proposal is to write up your idea
 as a way to receive feedback and, ultimately, improve your project.
-This will involve a short, written idea for the review. The proposal will be
+This will involve a short, written idea for the review and a short presentation. The proposal will be
 reviewed by Dr. Smith. 
 
 Please refer to the [literature review description]('../literature_review/literature_review_description.md')
