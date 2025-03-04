@@ -1,4 +1,5 @@
 # Class notes for March 4, 2025
+**NO OFFICE HOURS TODAY**
 
 ## Objectives
 - Discuss plant-nutrient relations
