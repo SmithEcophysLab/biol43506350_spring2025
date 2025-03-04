@@ -18,15 +18,15 @@
 		- reading sections (per group)
 			- note: everyone reads Summary and Conclusions
 			1. Introduction
-   				- 
+   				- ruth, gwen, zaide
 			2. Insights from experimental manipulations
-				- 
+				- walker, beatriz, rea
 			3. Insights from environmental gradients
-   				- 
+   				- clara, taylor, corbin
    			4. An optimality-guided CN-model
-   				-  
+   				-  ketz, lara, jaden
 			5. Discussion
-   				- 
+   				- kennedy, kaitlyn, dan
 			
 ## Homework
 - Read Stocker et al. (2025). The full citation and link can be found in the 
