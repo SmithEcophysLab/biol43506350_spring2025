@@ -13,7 +13,9 @@
 	- broader class discussion
 3. Develop schedule for review proposal week
 	- Tuesday, March 11
+		- clara, dan, walker, gwen, kennedy/zaide, garry, jaden, beatriz
 	- Thursday, March 13
+		- ruth, kaitlyn, corbin, ketz, taylor, rea, lara
 
 ## Homework
 - Complete literature review proposal and prepare to present it
