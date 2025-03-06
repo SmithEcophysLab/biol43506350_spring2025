@@ -5,7 +5,7 @@
 
 ## Agenda
 1. Miniquiz 7
-	- [link to miniquiz 7](../miniquizzes/miniquiz7_03.05.2025.pdf)
+	- [link to miniquiz 7](../miniquizzes/miniquiz7_03.06.2025.pdf)
 2. Discussion of Stocker et al. (2025)
 	- lead: Garrison
 	- discussion amongst sections
