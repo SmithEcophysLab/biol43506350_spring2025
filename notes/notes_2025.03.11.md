@@ -1,4 +1,5 @@
 # Class notes for March 11, 2025
+**NO OFFICE HOURS TODAY**
 
 ## Objectives
 - Presentations on literature review ideas
