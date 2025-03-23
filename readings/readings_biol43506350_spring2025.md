@@ -86,8 +86,7 @@ Mooney HA. 1972. The carbon balance of plants.
 Annual review of ecology and systematics 3: 315–346.
 
 ## March 27
-Terrer, C., Phillips, R. P., Hungate, B. A., Rosende, J., Pett-Ridge, J., Craig, M. E., ... & Jackson, R. B. (2021). 
-A trade-off between plant and soil carbon storage under elevated CO2. Nature, 591(7851), 599-603.
+
 
 ## April 1
 Grime JP. 1977. Evidence for the Existence of Three Primary Strategies in Plants and Its 
@@ -95,6 +94,9 @@ Relevance to Ecological and Evolutionary Theory.
 The American Naturalist 111: 1169–1194.
 
 ## April 3
+Terrer, C., Phillips, R. P., Hungate, B. A., Rosende, J., Pett-Ridge, J., Craig, M. E., ... & Jackson, R. B. (2021). 
+A trade-off between plant and soil carbon storage under elevated CO2. Nature, 591(7851), 599-603.
+
 Bruelheide, H., Dengler, J., Purschke, O., Lenoir, J., Jiménez-Alfaro, B., Hennekens, S. M., ... & Jandt, U. 
 (2018). Global trait–environment relationships of plant communities. 
 Nature ecology & evolution, 2(12), 1906-1917.
